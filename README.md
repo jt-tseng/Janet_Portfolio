@@ -1,2 +1,2 @@
-# janet_portfolio
+# Janet_Portfolio
 Data science portfolio
